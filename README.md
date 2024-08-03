@@ -5,7 +5,7 @@
 
 Копируем проект
 
-### `git copy https://github.com/dezzmol/h2o-shop.git`
+### `git clone https://github.com/dezzmol/h2o-shop.git`
 
 Собираем проект:
 
